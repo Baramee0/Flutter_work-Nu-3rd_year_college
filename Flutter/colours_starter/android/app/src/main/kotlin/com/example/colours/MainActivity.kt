@@ -1,0 +1,6 @@
+package com.example.colours
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
